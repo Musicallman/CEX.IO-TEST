@@ -1,0 +1,13 @@
+{
+  "name": "testCEX.IO",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "mocha": "^5.2.0",
+    "node-fetch": "^2.2.0",
+    "supertest": "^3.3.0",
+    "websocket": "^1.0.28"
+  }
+}
