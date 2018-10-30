@@ -1,5 +1,5 @@
-# CEX.IO-TEST
-CEX.IO-TEST Back-End dev
+# TEST
+TEST Back-End dev
 
 Инструкция:
 1. Скачать репозиторий.
